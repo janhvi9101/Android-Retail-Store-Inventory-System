@@ -37,7 +37,8 @@ A mobile-based app built using Android Studio to streamline retail store operati
 ![Counter Module](counter_module.png)
 
 ### 👤 User Module
-![User Module](user_module.png)
+![User Module](user_module1.png)
+
 ---
 
 ## 📥 How to Run
