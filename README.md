@@ -30,19 +30,14 @@ A mobile-based app built using Android Studio to streamline retail store operati
 ---
 ## 🖼️ Screenshots
 
-### Admin Module
-- ![Admin Home](screenshots/admin_home.png)
-- ![Sales Report](screenshots/admin_sales_report.png)
-- ![Counters](screenshots/admin_counters.png)
+### 🔐 Admin Module
+![Admin Module](screenshots/admin_module.png)
 
-### Counter Module
-- ![Counter Home](screenshots/counter_home.png)
+### 💼 Counter Module
+![Counter Module](screenshots/counter_module.png)
 
-### User Module
-- ![User Home](screenshots/user_home.png)
-
-> 📝 *Place all images in a `screenshots/` folder in your repo.*
-
+### 👤 User Module
+![User Module](screenshots/user_module.png)
 ---
 
 ## 📥 How to Run
