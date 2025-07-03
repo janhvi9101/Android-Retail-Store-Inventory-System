@@ -31,13 +31,13 @@ A mobile-based app built using Android Studio to streamline retail store operati
 ## 🖼️ Screenshots
 
 ### 🔐 Admin Module
-![Admin Module](screenshots/admin_module.png)
+![Admin Module](admin_module.png)
 
 ### 💼 Counter Module
-![Counter Module](screenshots/counter_module.png)
+![Counter Module](counter_module.png)
 
 ### 👤 User Module
-![User Module](screenshots/user_module.png)
+![User Module](user_module.png)
 ---
 
 ## 📥 How to Run
